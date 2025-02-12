@@ -6,7 +6,7 @@
 
 ## Installation
 ```bash
-pip install git+https://github.com/scrapy-plugins/scrapy-feedexporter-azure-storage
+pip install git+https://github.com/bboyadao/scrapy-feedexporter-azure-storage
 ```
 ## Usage
 * Add this storage backend to the [FEED_STORAGES](https://docs.scrapy.org/en/latest/topics/feed-exports.html#std-setting-FEED_STORAGES) Scrapy setting. For example:
